@@ -1,42 +1,40 @@
 {
-    "name": "darkpp-italic",
-    "displayName": "Dark++ Italic",
-    "description": "Enhanced default VScode Dark+ theme with support for italics Fira Code iScript and Fira Code + Operator Mono fonts.",
-    "version": "0.2.0",
-    "publisher": "idbartosz",
-    "engines": {
-        "vscode": "^1.18.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Dark++ Italic",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Dark++ Italic-color-theme.json"
-            }
-        ]
-    },
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/idbartosz/vscode-darkpp-italic.git"
-    },
-    "bugs": {
-        "url": "https://github.com/idbartosz/vscode-darkpp-italic.git/issues"
-    },
-    "homepage": "https://github.com/idbartosz/vscode-darkpp-italic/blob/master/README.md",
-    "keywords": [
-        "Vscode",
-        "Dark",
-        "Theme",
-        "Dark++",
-        "Dark plus plus",
-        "Darkpp",
-        "Italic"
-    ],
-    "icon": "icon.png",
-    "author": "Bartosz Korczak <idbartosz@gmail.com>",
-    "license": "MIT"
+  "name": "flat-dark",
+  "displayName": "flat-dark",
+  "description": "This is a rework of https://github.com/idbartosz/vscode-darkpp-italic.git to create a flat dark theme",
+  "version": "0.3.0",
+  "publisher": "RahulKurup",
+  "author": "Rahul kurup <rahul.kurup@hotmail.com>",
+  "license": "MIT",
+  "engines": {
+    "vscode": "^1.69.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Flat Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dark-color-theme.json"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rahul-kurup/vscode-flat-dark"
+  },
+  "bugs": {
+    "url": "https://github.com/rahul-kurup/vscode-flat-dark/issues"
+  },
+  "homepage": "https://github.com/rahul-kurup/vscode-flat-dark/blob/master/README.md",
+  "keywords": [
+    "Vscode",
+    "Dark",
+    "Theme",
+    "Flat Dark",
+    "Italic"
+  ],
+  "icon": "icon.png"
 }
