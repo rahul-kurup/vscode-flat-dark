@@ -1,8 +1,8 @@
 {
   "name": "flat-dark",
   "displayName": "flat-dark",
-  "description": "This is a rework of https://github.com/idbartosz/vscode-darkpp-italic.git to create a flat dark theme",
-  "version": "0.3.0",
+  "description": "Flat dark theme based on https://github.com/idbartosz/vscode-darkpp-italic.git",
+  "version": "0.3.1",
   "publisher": "RahulKurup",
   "author": "Rahul kurup <rahul.kurup@hotmail.com>",
   "license": "MIT",
@@ -36,5 +36,5 @@
     "Flat Dark",
     "Italic"
   ],
-  "icon": "icon.png"
+  "icon": "images/icon.png"
 }
