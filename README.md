@@ -1,13 +1,12 @@
 # Flat Dark VSCode theme 
-A rework of [Dark++ Italic Theme by idbartosz](https://github.com/idbartosz/vscode-darkpp-italic)
+Flat dark theme which looks great with cursive/italic fonts.
 
-This theme provides a flat look to the original one
+This is a rework of [Dark++ Italic Theme by idbartosz](https://github.com/idbartosz/vscode-darkpp-italic)
 
 ---
-Code Look:
+Code Preview (JS) look:
 
 ![Theme Screenshot](/images/screenshot.png)
-
 
 Complete VSCode look:
 
@@ -40,5 +39,6 @@ You can take a look at the change log [here](https://github.com/rahul-kurup/vsco
 ---
 
 ## Thanks to
+- Icon from [Dark icons created by Flat Icons - Flaticon](https://www.flaticon.com/free-icons/dark)
 - [@idbartosz for Dark++ Italic Theme](https://github.com/idbartosz/vscode-darkpp-italic)
 - [people mentioned here](https://github.com/idbartosz/vscode-darkpp-italic#thanks-to)

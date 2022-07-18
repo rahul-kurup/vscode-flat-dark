@@ -1,13 +1,13 @@
 {
   "name": "flat-dark",
   "displayName": "flat-dark",
-  "description": "Flat dark theme based on https://github.com/idbartosz/vscode-darkpp-italic.git",
-  "version": "0.3.1",
+  "description": "Flat dark theme which looks great with cursive/italic fonts.",
+  "version": "0.3.2",
   "publisher": "RahulKurup",
   "author": "Rahul kurup <rahul.kurup@hotmail.com>",
   "license": "MIT",
   "engines": {
-    "vscode": "^1.69.0"
+    "vscode": "^1.50.0"
   },
   "categories": [
     "Themes"
